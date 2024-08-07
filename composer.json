@@ -14,16 +14,16 @@
         }
     },
     "require-dev": {
-      "symfony/console": "^4.4|^5.0",
-        "symfony/serializer": "^4.4|^5.0",
-        "symfony/error-handler": "^4.4|^5.0",
-        "symfony/yaml": "^4.4|^5.0",
+      "symfony/console": "^6.4",
+        "symfony/serializer": "^6.4",
+        "symfony/error-handler": "^6.4",
+        "symfony/yaml": "^6.4",
         "devnix/zip-exception": "^0.1.0",
         "phpoffice/phpspreadsheet": "^1.10",
-        "phpunit/phpunit": "^7.5"
+        "phpunit/phpunit": "^9.5"
     },
     "require": {
-        "php": ">=7.1",
+        "php": ">=8.1",
         "doctrine/collections": "^1.6",
         "ext-zip": "*"
     }

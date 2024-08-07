@@ -103,8 +103,8 @@
       eurostat_code_regione_2010: ITC2
       eurostat_code_regione_2021: ITC2
       istat_code_reg: '02'
-      istat_denominazione_regione_maiuscolo: 'VALLE D''AOSTA/VALLÉE D''AOSTE'
-      istat_denominazione_regione_camel: 'Valle d''Aosta/Vallée d''Aoste'
+      istat_denominazione_regione_maiuscolo: "VALLE D'AOSTA/VALLÉE D'AOSTE"
+      istat_denominazione_regione_camel: "Valle d'Aosta/Vallée d'Aoste"
       istat_regione_tipo: 2
   -
       eurostat_code_ripartizione_2010: ITC

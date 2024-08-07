@@ -93,7 +93,7 @@
       eurostat_code_2021: ITC20
       istat_code_provincia_attuale: '007'
       istat_code_provincia_statistico: '007'
-      istat_nome: 'Valle d''Aosta/Vallée d''Aoste'
+      istat_nome: "Valle d'Aosta/Vallée d'Aoste"
       istat_tipo: Provincia
       motorizzazione_sigla_automobilistica: AO
       istat_code_provincia_storico: '007'
@@ -445,7 +445,7 @@
       eurostat_code_2021: ITH53
       istat_code_provincia_attuale: '035'
       istat_code_provincia_statistico: '035'
-      istat_nome: 'Reggio nell''Emilia'
+      istat_nome: "Reggio nell'Emilia"
       istat_tipo: Provincia
       motorizzazione_sigla_automobilistica: RE
       istat_code_provincia_storico: '035'
@@ -764,7 +764,7 @@
       eurostat_code_2021: ITF11
       istat_code_provincia_attuale: '066'
       istat_code_provincia_statistico: '066'
-      istat_nome: 'L''Aquila'
+      istat_nome: "L'Aquila"
       istat_tipo: Provincia
       motorizzazione_sigla_automobilistica: AQ
       istat_code_provincia_storico: '066'

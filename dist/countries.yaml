@@ -1541,8 +1541,8 @@
       istat_area_code: 22
       area_name_it: 'Africa occidentale'
       istat_id: 404
-      name_it: 'Costa d''Avorio'
-      name_en: 'Côte d''Ivoire'
+      name_it: "Costa d'Avorio"
+      name_en: "Côte d'Ivoire"
       anpr_id: '404'
       registry_code: Z313
       unsd_m49_id: '384'
@@ -2709,7 +2709,7 @@
       istat_area_code: 41
       area_name_it: 'America settentrionale'
       istat_id: 536
-      name_it: 'Stati Uniti d''America'
+      name_it: "Stati Uniti d'America"
       name_en: 'United States of America'
       anpr_id: '536'
       registry_code: Z404
@@ -3525,7 +3525,7 @@
       istat_area_code: 24
       area_name_it: 'Africa centro meridionale'
       istat_id: 983
-      name_it: 'Sant''Elena'
+      name_it: "Sant'Elena"
       name_en: 'Saint Helena'
       anpr_id: '447'
       registry_code: Z340
