@@ -1,0 +1,112 @@
+ripartizione_geografica,istat_code_regione,eurostat_code_2010,eurostat_code_2021,istat_code_provincia_attuale,istat_code_provincia_statistico,istat_nome,istat_tipo,motorizzazione_sigla_automobilistica,istat_code_provincia_storico
+Nord-ovest,01,ITC11,ITC11,201,201,Torino,"Citta metropolitana",TO,001
+Nord-ovest,01,ITC12,ITC12,002,002,Vercelli,Provincia,VC,002
+Nord-ovest,01,ITC15,ITC15,003,003,Novara,Provincia,NO,003
+Nord-ovest,01,ITC16,ITC16,004,004,Cuneo,Provincia,CN,004
+Nord-ovest,01,ITC17,ITC17,005,005,Asti,Provincia,AT,005
+Nord-ovest,01,ITC18,ITC18,006,006,Alessandria,Provincia,AL,006
+Nord-ovest,01,ITC13,ITC13,096,096,Biella,Provincia,BI,096
+Nord-ovest,01,ITC14,ITC14,103,103,Verbano-Cusio-Ossola,Provincia,VB,103
+Nord-ovest,02,ITC20,ITC20,007,007,"Valle d'Aosta/Vallée d'Aoste",Provincia,AO,007
+Nord-ovest,03,ITC41,ITC41,012,012,Varese,Provincia,VA,012
+Nord-ovest,03,ITC42,ITC42,013,013,Como,Provincia,CO,013
+Nord-ovest,03,ITC44,ITC44,014,014,Sondrio,Provincia,SO,014
+Nord-ovest,03,ITC4C,ITC4C,215,215,Milano,"Citta metropolitana",MI,015
+Nord-ovest,03,ITC46,ITC46,016,016,Bergamo,Provincia,BG,016
+Nord-ovest,03,ITC47,ITC47,017,017,Brescia,Provincia,BS,017
+Nord-ovest,03,ITC48,ITC48,018,018,Pavia,Provincia,PV,018
+Nord-ovest,03,ITC4A,ITC4A,019,019,Cremona,Provincia,CR,019
+Nord-ovest,03,ITC4B,ITC4B,020,020,Mantova,Provincia,MN,020
+Nord-ovest,03,ITC43,ITC43,097,097,Lecco,Provincia,LC,097
+Nord-ovest,03,ITC49,ITC49,098,098,Lodi,Provincia,LO,098
+Nord-ovest,03,ITC4D,ITC4D,108,108,"Monza e della Brianza",Provincia,MB,108
+Nord-est,04,ITH10,ITH10,021,021,Bolzano/Bozen,"Provincia autonoma",BZ,021
+Nord-est,04,ITH20,ITH20,022,022,Trento,"Provincia autonoma",TN,022
+Nord-est,05,ITH31,ITH31,023,023,Verona,Provincia,VR,023
+Nord-est,05,ITH32,ITH32,024,024,Vicenza,Provincia,VI,024
+Nord-est,05,ITH33,ITH33,025,025,Belluno,Provincia,BL,025
+Nord-est,05,ITH34,ITH34,026,026,Treviso,Provincia,TV,026
+Nord-est,05,ITH35,ITH35,227,227,Venezia,"Citta metropolitana",VE,027
+Nord-est,05,ITH36,ITH36,028,028,Padova,Provincia,PD,028
+Nord-est,05,ITH37,ITH37,029,029,Rovigo,Provincia,RO,029
+Nord-est,06,ITH42,ITH42,-,030,Udine,"Unità non amministrativa",UD,030
+Nord-est,06,ITH43,ITH43,-,031,Gorizia,"Unità non amministrativa",GO,031
+Nord-est,06,ITH44,ITH44,-,032,Trieste,"Unità non amministrativa",TS,032
+Nord-est,06,ITH41,ITH41,-,093,Pordenone,"Unità non amministrativa",PN,093
+Nord-ovest,07,ITC31,ITC31,008,008,Imperia,Provincia,IM,008
+Nord-ovest,07,ITC32,ITC32,009,009,Savona,Provincia,SV,009
+Nord-ovest,07,ITC33,ITC33,210,210,Genova,"Citta metropolitana",GE,010
+Nord-ovest,07,ITC34,ITC34,011,011,"La Spezia",Provincia,SP,011
+Nord-est,08,ITH51,ITH51,033,033,Piacenza,Provincia,PC,033
+Nord-est,08,ITH52,ITH52,034,034,Parma,Provincia,PR,034
+Nord-est,08,ITH53,ITH53,035,035,"Reggio nell'Emilia",Provincia,RE,035
+Nord-est,08,ITH54,ITH54,036,036,Modena,Provincia,MO,036
+Nord-est,08,ITH55,ITH55,237,237,Bologna,"Citta metropolitana",BO,037
+Nord-est,08,ITH56,ITH56,038,038,Ferrara,Provincia,FE,038
+Nord-est,08,ITH57,ITH57,039,039,Ravenna,Provincia,RA,039
+Nord-est,08,ITH58,ITH58,040,040,Forlì-Cesena,Provincia,FC,040
+Nord-est,08,ITH59,ITH59,099,099,Rimini,Provincia,RN,099
+Centro,09,ITI11,ITI11,045,045,Massa-Carrara,Provincia,MS,045
+Centro,09,ITI12,ITI12,046,046,Lucca,Provincia,LU,046
+Centro,09,ITI13,ITI13,047,047,Pistoia,Provincia,PT,047
+Centro,09,ITI14,ITI14,248,248,Firenze,"Citta metropolitana",FI,048
+Centro,09,ITI16,ITI16,049,049,Livorno,Provincia,LI,049
+Centro,09,ITI17,ITI17,050,050,Pisa,Provincia,PI,050
+Centro,09,ITI18,ITI18,051,051,Arezzo,Provincia,AR,051
+Centro,09,ITI19,ITI19,052,052,Siena,Provincia,SI,052
+Centro,09,ITI1A,ITI1A,053,053,Grosseto,Provincia,GR,053
+Centro,09,ITI15,ITI15,100,100,Prato,Provincia,PO,100
+Centro,10,ITI21,ITI21,054,054,Perugia,Provincia,PG,054
+Centro,10,ITI22,ITI22,055,055,Terni,Provincia,TR,055
+Centro,11,ITI31,ITI31,041,041,"Pesaro e Urbino",Provincia,PU,041
+Centro,11,ITI32,ITI32,042,042,Ancona,Provincia,AN,042
+Centro,11,ITI33,ITI33,043,043,Macerata,Provincia,MC,043
+Centro,11,ITI34,ITI34,044,044,"Ascoli Piceno",Provincia,AP,044
+Centro,11,ITI35,ITI35,109,109,Fermo,Provincia,FM,109
+Centro,12,ITI41,ITI41,056,056,Viterbo,Provincia,VT,056
+Centro,12,ITI42,ITI42,057,057,Rieti,Provincia,RI,057
+Centro,12,ITI43,ITI43,258,258,Roma,"Citta metropolitana",RM,058
+Centro,12,ITI44,ITI44,059,059,Latina,Provincia,LT,059
+Centro,12,ITI45,ITI45,060,060,Frosinone,Provincia,FR,060
+Sud,13,ITF11,ITF11,066,066,L'Aquila,Provincia,AQ,066
+Sud,13,ITF12,ITF12,067,067,Teramo,Provincia,TE,067
+Sud,13,ITF13,ITF13,068,068,Pescara,Provincia,PE,068
+Sud,13,ITF14,ITF14,069,069,Chieti,Provincia,CH,069
+Sud,14,ITF22,ITF22,070,070,Campobasso,Provincia,CB,070
+Sud,14,ITF21,ITF21,094,094,Isernia,Provincia,IS,094
+Sud,15,ITF31,ITF31,061,061,Caserta,Provincia,CE,061
+Sud,15,ITF32,ITF32,062,062,Benevento,Provincia,BN,062
+Sud,15,ITF33,ITF33,263,263,Napoli,"Citta metropolitana",NA,063
+Sud,15,ITF34,ITF34,064,064,Avellino,Provincia,AV,064
+Sud,15,ITF35,ITF35,065,065,Salerno,Provincia,SA,065
+Sud,16,ITF46,ITF46,071,071,Foggia,Provincia,FG,071
+Sud,16,ITF47,ITF47,272,272,Bari,"Citta metropolitana",BA,072
+Sud,16,ITF43,ITF43,073,073,Taranto,Provincia,TA,073
+Sud,16,ITF44,ITF44,074,074,Brindisi,Provincia,BR,074
+Sud,16,ITF45,ITF45,075,075,Lecce,Provincia,LE,075
+Sud,16,ITF48,ITF48,110,110,Barletta-Andria-Trani,Provincia,BT,110
+Sud,17,ITF51,ITF51,076,076,Potenza,Provincia,PZ,076
+Sud,17,ITF52,ITF52,077,077,Matera,Provincia,MT,077
+Sud,18,ITF61,ITF61,078,078,Cosenza,Provincia,CS,078
+Sud,18,ITF63,ITF63,079,079,Catanzaro,Provincia,CZ,079
+Sud,18,ITF65,ITF65,280,280,"Reggio Calabria","Citta metropolitana",RC,080
+Sud,18,ITF62,ITF62,101,101,Crotone,Provincia,KR,101
+Sud,18,ITF64,ITF64,102,102,"Vibo Valentia",Provincia,VV,102
+Isole,19,ITG11,ITG11,081,081,Trapani,"Libero consorzio di comuni",TP,081
+Isole,19,ITG12,ITG12,282,282,Palermo,"Citta metropolitana",PA,082
+Isole,19,ITG13,ITG13,283,283,Messina,"Citta metropolitana",ME,083
+Isole,19,ITG14,ITG14,084,084,Agrigento,"Libero consorzio di comuni",AG,084
+Isole,19,ITG15,ITG15,085,085,Caltanissetta,"Libero consorzio di comuni",CL,085
+Isole,19,ITG16,ITG16,086,086,Enna,"Libero consorzio di comuni",EN,086
+Isole,19,ITG17,ITG17,287,287,Catania,"Citta metropolitana",CT,087
+Isole,19,ITG18,ITG18,088,088,Ragusa,"Libero consorzio di comuni",RG,088
+Isole,19,ITG19,ITG19,089,089,Siracusa,"Libero consorzio di comuni",SR,089
+Isole,20,ITG25,"ITG2D ",090,090,Sassari,Provincia,SS,090
+Isole,20,ITG26,"ITG2E ",091,091,Nuoro,Provincia,NU,091
+Isole,20,ITG27,ITG2F,292,292,Cagliari,"Citta metropolitana",CA,092
+Isole,20,ITG28,"ITG2G ",095,095,Oristano,Provincia,OR,095
+Isole,20,ITG29,-,-,-,Olbia-Tempio,"Provincia soppressa",OT,104
+Isole,20,ITG2A,-,-,-,Ogliastra,"Provincia soppressa",OG,105
+Isole,20,ITG2B,-,-,-,"Medio Campidano","Provincia soppressa",VS,106
+Isole,20,ITG2C,-,-,-,Carbonia-Iglesias,"Provincia soppressa",CI,107
+Isole,20,-,"ITG2H ",111,111,"Sud Sardegna",Provincia,SU,111

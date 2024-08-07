@@ -1,0 +1,1221 @@
+  -
+      ripartizione_geografica: Nord-ovest
+      istat_code_regione: '01'
+      eurostat_code_2010: ITC11
+      eurostat_code_2021: ITC11
+      istat_code_provincia_attuale: '201'
+      istat_code_provincia_statistico: '201'
+      istat_nome: Torino
+      istat_tipo: 'Citta metropolitana'
+      motorizzazione_sigla_automobilistica: TO
+      istat_code_provincia_storico: '001'
+  -
+      ripartizione_geografica: Nord-ovest
+      istat_code_regione: '01'
+      eurostat_code_2010: ITC12
+      eurostat_code_2021: ITC12
+      istat_code_provincia_attuale: '002'
+      istat_code_provincia_statistico: '002'
+      istat_nome: Vercelli
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: VC
+      istat_code_provincia_storico: '002'
+  -
+      ripartizione_geografica: Nord-ovest
+      istat_code_regione: '01'
+      eurostat_code_2010: ITC15
+      eurostat_code_2021: ITC15
+      istat_code_provincia_attuale: '003'
+      istat_code_provincia_statistico: '003'
+      istat_nome: Novara
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: 'NO'
+      istat_code_provincia_storico: '003'
+  -
+      ripartizione_geografica: Nord-ovest
+      istat_code_regione: '01'
+      eurostat_code_2010: ITC16
+      eurostat_code_2021: ITC16
+      istat_code_provincia_attuale: '004'
+      istat_code_provincia_statistico: '004'
+      istat_nome: Cuneo
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: CN
+      istat_code_provincia_storico: '004'
+  -
+      ripartizione_geografica: Nord-ovest
+      istat_code_regione: '01'
+      eurostat_code_2010: ITC17
+      eurostat_code_2021: ITC17
+      istat_code_provincia_attuale: '005'
+      istat_code_provincia_statistico: '005'
+      istat_nome: Asti
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: AT
+      istat_code_provincia_storico: '005'
+  -
+      ripartizione_geografica: Nord-ovest
+      istat_code_regione: '01'
+      eurostat_code_2010: ITC18
+      eurostat_code_2021: ITC18
+      istat_code_provincia_attuale: '006'
+      istat_code_provincia_statistico: '006'
+      istat_nome: Alessandria
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: AL
+      istat_code_provincia_storico: '006'
+  -
+      ripartizione_geografica: Nord-ovest
+      istat_code_regione: '01'
+      eurostat_code_2010: ITC13
+      eurostat_code_2021: ITC13
+      istat_code_provincia_attuale: '096'
+      istat_code_provincia_statistico: '096'
+      istat_nome: Biella
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: BI
+      istat_code_provincia_storico: '096'
+  -
+      ripartizione_geografica: Nord-ovest
+      istat_code_regione: '01'
+      eurostat_code_2010: ITC14
+      eurostat_code_2021: ITC14
+      istat_code_provincia_attuale: '103'
+      istat_code_provincia_statistico: '103'
+      istat_nome: Verbano-Cusio-Ossola
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: VB
+      istat_code_provincia_storico: '103'
+  -
+      ripartizione_geografica: Nord-ovest
+      istat_code_regione: '02'
+      eurostat_code_2010: ITC20
+      eurostat_code_2021: ITC20
+      istat_code_provincia_attuale: '007'
+      istat_code_provincia_statistico: '007'
+      istat_nome: 'Valle d''Aosta/Vallée d''Aoste'
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: AO
+      istat_code_provincia_storico: '007'
+  -
+      ripartizione_geografica: Nord-ovest
+      istat_code_regione: '03'
+      eurostat_code_2010: ITC41
+      eurostat_code_2021: ITC41
+      istat_code_provincia_attuale: '012'
+      istat_code_provincia_statistico: '012'
+      istat_nome: Varese
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: VA
+      istat_code_provincia_storico: '012'
+  -
+      ripartizione_geografica: Nord-ovest
+      istat_code_regione: '03'
+      eurostat_code_2010: ITC42
+      eurostat_code_2021: ITC42
+      istat_code_provincia_attuale: '013'
+      istat_code_provincia_statistico: '013'
+      istat_nome: Como
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: CO
+      istat_code_provincia_storico: '013'
+  -
+      ripartizione_geografica: Nord-ovest
+      istat_code_regione: '03'
+      eurostat_code_2010: ITC44
+      eurostat_code_2021: ITC44
+      istat_code_provincia_attuale: '014'
+      istat_code_provincia_statistico: '014'
+      istat_nome: Sondrio
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: SO
+      istat_code_provincia_storico: '014'
+  -
+      ripartizione_geografica: Nord-ovest
+      istat_code_regione: '03'
+      eurostat_code_2010: ITC4C
+      eurostat_code_2021: ITC4C
+      istat_code_provincia_attuale: '215'
+      istat_code_provincia_statistico: '215'
+      istat_nome: Milano
+      istat_tipo: 'Citta metropolitana'
+      motorizzazione_sigla_automobilistica: MI
+      istat_code_provincia_storico: '015'
+  -
+      ripartizione_geografica: Nord-ovest
+      istat_code_regione: '03'
+      eurostat_code_2010: ITC46
+      eurostat_code_2021: ITC46
+      istat_code_provincia_attuale: '016'
+      istat_code_provincia_statistico: '016'
+      istat_nome: Bergamo
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: BG
+      istat_code_provincia_storico: '016'
+  -
+      ripartizione_geografica: Nord-ovest
+      istat_code_regione: '03'
+      eurostat_code_2010: ITC47
+      eurostat_code_2021: ITC47
+      istat_code_provincia_attuale: '017'
+      istat_code_provincia_statistico: '017'
+      istat_nome: Brescia
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: BS
+      istat_code_provincia_storico: '017'
+  -
+      ripartizione_geografica: Nord-ovest
+      istat_code_regione: '03'
+      eurostat_code_2010: ITC48
+      eurostat_code_2021: ITC48
+      istat_code_provincia_attuale: '018'
+      istat_code_provincia_statistico: '018'
+      istat_nome: Pavia
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: PV
+      istat_code_provincia_storico: '018'
+  -
+      ripartizione_geografica: Nord-ovest
+      istat_code_regione: '03'
+      eurostat_code_2010: ITC4A
+      eurostat_code_2021: ITC4A
+      istat_code_provincia_attuale: '019'
+      istat_code_provincia_statistico: '019'
+      istat_nome: Cremona
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: CR
+      istat_code_provincia_storico: '019'
+  -
+      ripartizione_geografica: Nord-ovest
+      istat_code_regione: '03'
+      eurostat_code_2010: ITC4B
+      eurostat_code_2021: ITC4B
+      istat_code_provincia_attuale: '020'
+      istat_code_provincia_statistico: '020'
+      istat_nome: Mantova
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: MN
+      istat_code_provincia_storico: '020'
+  -
+      ripartizione_geografica: Nord-ovest
+      istat_code_regione: '03'
+      eurostat_code_2010: ITC43
+      eurostat_code_2021: ITC43
+      istat_code_provincia_attuale: '097'
+      istat_code_provincia_statistico: '097'
+      istat_nome: Lecco
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: LC
+      istat_code_provincia_storico: '097'
+  -
+      ripartizione_geografica: Nord-ovest
+      istat_code_regione: '03'
+      eurostat_code_2010: ITC49
+      eurostat_code_2021: ITC49
+      istat_code_provincia_attuale: '098'
+      istat_code_provincia_statistico: '098'
+      istat_nome: Lodi
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: LO
+      istat_code_provincia_storico: '098'
+  -
+      ripartizione_geografica: Nord-ovest
+      istat_code_regione: '03'
+      eurostat_code_2010: ITC4D
+      eurostat_code_2021: ITC4D
+      istat_code_provincia_attuale: '108'
+      istat_code_provincia_statistico: '108'
+      istat_nome: 'Monza e della Brianza'
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: MB
+      istat_code_provincia_storico: '108'
+  -
+      ripartizione_geografica: Nord-est
+      istat_code_regione: '04'
+      eurostat_code_2010: ITH10
+      eurostat_code_2021: ITH10
+      istat_code_provincia_attuale: '021'
+      istat_code_provincia_statistico: '021'
+      istat_nome: Bolzano/Bozen
+      istat_tipo: 'Provincia autonoma'
+      motorizzazione_sigla_automobilistica: BZ
+      istat_code_provincia_storico: '021'
+  -
+      ripartizione_geografica: Nord-est
+      istat_code_regione: '04'
+      eurostat_code_2010: ITH20
+      eurostat_code_2021: ITH20
+      istat_code_provincia_attuale: '022'
+      istat_code_provincia_statistico: '022'
+      istat_nome: Trento
+      istat_tipo: 'Provincia autonoma'
+      motorizzazione_sigla_automobilistica: TN
+      istat_code_provincia_storico: '022'
+  -
+      ripartizione_geografica: Nord-est
+      istat_code_regione: '05'
+      eurostat_code_2010: ITH31
+      eurostat_code_2021: ITH31
+      istat_code_provincia_attuale: '023'
+      istat_code_provincia_statistico: '023'
+      istat_nome: Verona
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: VR
+      istat_code_provincia_storico: '023'
+  -
+      ripartizione_geografica: Nord-est
+      istat_code_regione: '05'
+      eurostat_code_2010: ITH32
+      eurostat_code_2021: ITH32
+      istat_code_provincia_attuale: '024'
+      istat_code_provincia_statistico: '024'
+      istat_nome: Vicenza
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: VI
+      istat_code_provincia_storico: '024'
+  -
+      ripartizione_geografica: Nord-est
+      istat_code_regione: '05'
+      eurostat_code_2010: ITH33
+      eurostat_code_2021: ITH33
+      istat_code_provincia_attuale: '025'
+      istat_code_provincia_statistico: '025'
+      istat_nome: Belluno
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: BL
+      istat_code_provincia_storico: '025'
+  -
+      ripartizione_geografica: Nord-est
+      istat_code_regione: '05'
+      eurostat_code_2010: ITH34
+      eurostat_code_2021: ITH34
+      istat_code_provincia_attuale: '026'
+      istat_code_provincia_statistico: '026'
+      istat_nome: Treviso
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: TV
+      istat_code_provincia_storico: '026'
+  -
+      ripartizione_geografica: Nord-est
+      istat_code_regione: '05'
+      eurostat_code_2010: ITH35
+      eurostat_code_2021: ITH35
+      istat_code_provincia_attuale: '227'
+      istat_code_provincia_statistico: '227'
+      istat_nome: Venezia
+      istat_tipo: 'Citta metropolitana'
+      motorizzazione_sigla_automobilistica: VE
+      istat_code_provincia_storico: '027'
+  -
+      ripartizione_geografica: Nord-est
+      istat_code_regione: '05'
+      eurostat_code_2010: ITH36
+      eurostat_code_2021: ITH36
+      istat_code_provincia_attuale: '028'
+      istat_code_provincia_statistico: '028'
+      istat_nome: Padova
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: PD
+      istat_code_provincia_storico: '028'
+  -
+      ripartizione_geografica: Nord-est
+      istat_code_regione: '05'
+      eurostat_code_2010: ITH37
+      eurostat_code_2021: ITH37
+      istat_code_provincia_attuale: '029'
+      istat_code_provincia_statistico: '029'
+      istat_nome: Rovigo
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: RO
+      istat_code_provincia_storico: '029'
+  -
+      ripartizione_geografica: Nord-est
+      istat_code_regione: '06'
+      eurostat_code_2010: ITH42
+      eurostat_code_2021: ITH42
+      istat_code_provincia_attuale: '-'
+      istat_code_provincia_statistico: '030'
+      istat_nome: Udine
+      istat_tipo: 'Unità non amministrativa'
+      motorizzazione_sigla_automobilistica: UD
+      istat_code_provincia_storico: '030'
+  -
+      ripartizione_geografica: Nord-est
+      istat_code_regione: '06'
+      eurostat_code_2010: ITH43
+      eurostat_code_2021: ITH43
+      istat_code_provincia_attuale: '-'
+      istat_code_provincia_statistico: '031'
+      istat_nome: Gorizia
+      istat_tipo: 'Unità non amministrativa'
+      motorizzazione_sigla_automobilistica: GO
+      istat_code_provincia_storico: '031'
+  -
+      ripartizione_geografica: Nord-est
+      istat_code_regione: '06'
+      eurostat_code_2010: ITH44
+      eurostat_code_2021: ITH44
+      istat_code_provincia_attuale: '-'
+      istat_code_provincia_statistico: '032'
+      istat_nome: Trieste
+      istat_tipo: 'Unità non amministrativa'
+      motorizzazione_sigla_automobilistica: TS
+      istat_code_provincia_storico: '032'
+  -
+      ripartizione_geografica: Nord-est
+      istat_code_regione: '06'
+      eurostat_code_2010: ITH41
+      eurostat_code_2021: ITH41
+      istat_code_provincia_attuale: '-'
+      istat_code_provincia_statistico: '093'
+      istat_nome: Pordenone
+      istat_tipo: 'Unità non amministrativa'
+      motorizzazione_sigla_automobilistica: PN
+      istat_code_provincia_storico: '093'
+  -
+      ripartizione_geografica: Nord-ovest
+      istat_code_regione: '07'
+      eurostat_code_2010: ITC31
+      eurostat_code_2021: ITC31
+      istat_code_provincia_attuale: '008'
+      istat_code_provincia_statistico: '008'
+      istat_nome: Imperia
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: IM
+      istat_code_provincia_storico: '008'
+  -
+      ripartizione_geografica: Nord-ovest
+      istat_code_regione: '07'
+      eurostat_code_2010: ITC32
+      eurostat_code_2021: ITC32
+      istat_code_provincia_attuale: '009'
+      istat_code_provincia_statistico: '009'
+      istat_nome: Savona
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: SV
+      istat_code_provincia_storico: '009'
+  -
+      ripartizione_geografica: Nord-ovest
+      istat_code_regione: '07'
+      eurostat_code_2010: ITC33
+      eurostat_code_2021: ITC33
+      istat_code_provincia_attuale: '210'
+      istat_code_provincia_statistico: '210'
+      istat_nome: Genova
+      istat_tipo: 'Citta metropolitana'
+      motorizzazione_sigla_automobilistica: GE
+      istat_code_provincia_storico: '010'
+  -
+      ripartizione_geografica: Nord-ovest
+      istat_code_regione: '07'
+      eurostat_code_2010: ITC34
+      eurostat_code_2021: ITC34
+      istat_code_provincia_attuale: '011'
+      istat_code_provincia_statistico: '011'
+      istat_nome: 'La Spezia'
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: SP
+      istat_code_provincia_storico: '011'
+  -
+      ripartizione_geografica: Nord-est
+      istat_code_regione: '08'
+      eurostat_code_2010: ITH51
+      eurostat_code_2021: ITH51
+      istat_code_provincia_attuale: '033'
+      istat_code_provincia_statistico: '033'
+      istat_nome: Piacenza
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: PC
+      istat_code_provincia_storico: '033'
+  -
+      ripartizione_geografica: Nord-est
+      istat_code_regione: '08'
+      eurostat_code_2010: ITH52
+      eurostat_code_2021: ITH52
+      istat_code_provincia_attuale: '034'
+      istat_code_provincia_statistico: '034'
+      istat_nome: Parma
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: PR
+      istat_code_provincia_storico: '034'
+  -
+      ripartizione_geografica: Nord-est
+      istat_code_regione: '08'
+      eurostat_code_2010: ITH53
+      eurostat_code_2021: ITH53
+      istat_code_provincia_attuale: '035'
+      istat_code_provincia_statistico: '035'
+      istat_nome: 'Reggio nell''Emilia'
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: RE
+      istat_code_provincia_storico: '035'
+  -
+      ripartizione_geografica: Nord-est
+      istat_code_regione: '08'
+      eurostat_code_2010: ITH54
+      eurostat_code_2021: ITH54
+      istat_code_provincia_attuale: '036'
+      istat_code_provincia_statistico: '036'
+      istat_nome: Modena
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: MO
+      istat_code_provincia_storico: '036'
+  -
+      ripartizione_geografica: Nord-est
+      istat_code_regione: '08'
+      eurostat_code_2010: ITH55
+      eurostat_code_2021: ITH55
+      istat_code_provincia_attuale: '237'
+      istat_code_provincia_statistico: '237'
+      istat_nome: Bologna
+      istat_tipo: 'Citta metropolitana'
+      motorizzazione_sigla_automobilistica: BO
+      istat_code_provincia_storico: '037'
+  -
+      ripartizione_geografica: Nord-est
+      istat_code_regione: '08'
+      eurostat_code_2010: ITH56
+      eurostat_code_2021: ITH56
+      istat_code_provincia_attuale: '038'
+      istat_code_provincia_statistico: '038'
+      istat_nome: Ferrara
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: FE
+      istat_code_provincia_storico: '038'
+  -
+      ripartizione_geografica: Nord-est
+      istat_code_regione: '08'
+      eurostat_code_2010: ITH57
+      eurostat_code_2021: ITH57
+      istat_code_provincia_attuale: '039'
+      istat_code_provincia_statistico: '039'
+      istat_nome: Ravenna
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: RA
+      istat_code_provincia_storico: '039'
+  -
+      ripartizione_geografica: Nord-est
+      istat_code_regione: '08'
+      eurostat_code_2010: ITH58
+      eurostat_code_2021: ITH58
+      istat_code_provincia_attuale: '040'
+      istat_code_provincia_statistico: '040'
+      istat_nome: Forlì-Cesena
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: FC
+      istat_code_provincia_storico: '040'
+  -
+      ripartizione_geografica: Nord-est
+      istat_code_regione: '08'
+      eurostat_code_2010: ITH59
+      eurostat_code_2021: ITH59
+      istat_code_provincia_attuale: '099'
+      istat_code_provincia_statistico: '099'
+      istat_nome: Rimini
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: RN
+      istat_code_provincia_storico: '099'
+  -
+      ripartizione_geografica: Centro
+      istat_code_regione: '09'
+      eurostat_code_2010: ITI11
+      eurostat_code_2021: ITI11
+      istat_code_provincia_attuale: '045'
+      istat_code_provincia_statistico: '045'
+      istat_nome: Massa-Carrara
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: MS
+      istat_code_provincia_storico: '045'
+  -
+      ripartizione_geografica: Centro
+      istat_code_regione: '09'
+      eurostat_code_2010: ITI12
+      eurostat_code_2021: ITI12
+      istat_code_provincia_attuale: '046'
+      istat_code_provincia_statistico: '046'
+      istat_nome: Lucca
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: LU
+      istat_code_provincia_storico: '046'
+  -
+      ripartizione_geografica: Centro
+      istat_code_regione: '09'
+      eurostat_code_2010: ITI13
+      eurostat_code_2021: ITI13
+      istat_code_provincia_attuale: '047'
+      istat_code_provincia_statistico: '047'
+      istat_nome: Pistoia
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: PT
+      istat_code_provincia_storico: '047'
+  -
+      ripartizione_geografica: Centro
+      istat_code_regione: '09'
+      eurostat_code_2010: ITI14
+      eurostat_code_2021: ITI14
+      istat_code_provincia_attuale: '248'
+      istat_code_provincia_statistico: '248'
+      istat_nome: Firenze
+      istat_tipo: 'Citta metropolitana'
+      motorizzazione_sigla_automobilistica: FI
+      istat_code_provincia_storico: '048'
+  -
+      ripartizione_geografica: Centro
+      istat_code_regione: '09'
+      eurostat_code_2010: ITI16
+      eurostat_code_2021: ITI16
+      istat_code_provincia_attuale: '049'
+      istat_code_provincia_statistico: '049'
+      istat_nome: Livorno
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: LI
+      istat_code_provincia_storico: '049'
+  -
+      ripartizione_geografica: Centro
+      istat_code_regione: '09'
+      eurostat_code_2010: ITI17
+      eurostat_code_2021: ITI17
+      istat_code_provincia_attuale: '050'
+      istat_code_provincia_statistico: '050'
+      istat_nome: Pisa
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: PI
+      istat_code_provincia_storico: '050'
+  -
+      ripartizione_geografica: Centro
+      istat_code_regione: '09'
+      eurostat_code_2010: ITI18
+      eurostat_code_2021: ITI18
+      istat_code_provincia_attuale: '051'
+      istat_code_provincia_statistico: '051'
+      istat_nome: Arezzo
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: AR
+      istat_code_provincia_storico: '051'
+  -
+      ripartizione_geografica: Centro
+      istat_code_regione: '09'
+      eurostat_code_2010: ITI19
+      eurostat_code_2021: ITI19
+      istat_code_provincia_attuale: '052'
+      istat_code_provincia_statistico: '052'
+      istat_nome: Siena
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: SI
+      istat_code_provincia_storico: '052'
+  -
+      ripartizione_geografica: Centro
+      istat_code_regione: '09'
+      eurostat_code_2010: ITI1A
+      eurostat_code_2021: ITI1A
+      istat_code_provincia_attuale: '053'
+      istat_code_provincia_statistico: '053'
+      istat_nome: Grosseto
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: GR
+      istat_code_provincia_storico: '053'
+  -
+      ripartizione_geografica: Centro
+      istat_code_regione: '09'
+      eurostat_code_2010: ITI15
+      eurostat_code_2021: ITI15
+      istat_code_provincia_attuale: '100'
+      istat_code_provincia_statistico: '100'
+      istat_nome: Prato
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: PO
+      istat_code_provincia_storico: '100'
+  -
+      ripartizione_geografica: Centro
+      istat_code_regione: '10'
+      eurostat_code_2010: ITI21
+      eurostat_code_2021: ITI21
+      istat_code_provincia_attuale: '054'
+      istat_code_provincia_statistico: '054'
+      istat_nome: Perugia
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: PG
+      istat_code_provincia_storico: '054'
+  -
+      ripartizione_geografica: Centro
+      istat_code_regione: '10'
+      eurostat_code_2010: ITI22
+      eurostat_code_2021: ITI22
+      istat_code_provincia_attuale: '055'
+      istat_code_provincia_statistico: '055'
+      istat_nome: Terni
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: TR
+      istat_code_provincia_storico: '055'
+  -
+      ripartizione_geografica: Centro
+      istat_code_regione: '11'
+      eurostat_code_2010: ITI31
+      eurostat_code_2021: ITI31
+      istat_code_provincia_attuale: '041'
+      istat_code_provincia_statistico: '041'
+      istat_nome: 'Pesaro e Urbino'
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: PU
+      istat_code_provincia_storico: '041'
+  -
+      ripartizione_geografica: Centro
+      istat_code_regione: '11'
+      eurostat_code_2010: ITI32
+      eurostat_code_2021: ITI32
+      istat_code_provincia_attuale: '042'
+      istat_code_provincia_statistico: '042'
+      istat_nome: Ancona
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: AN
+      istat_code_provincia_storico: '042'
+  -
+      ripartizione_geografica: Centro
+      istat_code_regione: '11'
+      eurostat_code_2010: ITI33
+      eurostat_code_2021: ITI33
+      istat_code_provincia_attuale: '043'
+      istat_code_provincia_statistico: '043'
+      istat_nome: Macerata
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: MC
+      istat_code_provincia_storico: '043'
+  -
+      ripartizione_geografica: Centro
+      istat_code_regione: '11'
+      eurostat_code_2010: ITI34
+      eurostat_code_2021: ITI34
+      istat_code_provincia_attuale: '044'
+      istat_code_provincia_statistico: '044'
+      istat_nome: 'Ascoli Piceno'
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: AP
+      istat_code_provincia_storico: '044'
+  -
+      ripartizione_geografica: Centro
+      istat_code_regione: '11'
+      eurostat_code_2010: ITI35
+      eurostat_code_2021: ITI35
+      istat_code_provincia_attuale: '109'
+      istat_code_provincia_statistico: '109'
+      istat_nome: Fermo
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: FM
+      istat_code_provincia_storico: '109'
+  -
+      ripartizione_geografica: Centro
+      istat_code_regione: '12'
+      eurostat_code_2010: ITI41
+      eurostat_code_2021: ITI41
+      istat_code_provincia_attuale: '056'
+      istat_code_provincia_statistico: '056'
+      istat_nome: Viterbo
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: VT
+      istat_code_provincia_storico: '056'
+  -
+      ripartizione_geografica: Centro
+      istat_code_regione: '12'
+      eurostat_code_2010: ITI42
+      eurostat_code_2021: ITI42
+      istat_code_provincia_attuale: '057'
+      istat_code_provincia_statistico: '057'
+      istat_nome: Rieti
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: RI
+      istat_code_provincia_storico: '057'
+  -
+      ripartizione_geografica: Centro
+      istat_code_regione: '12'
+      eurostat_code_2010: ITI43
+      eurostat_code_2021: ITI43
+      istat_code_provincia_attuale: '258'
+      istat_code_provincia_statistico: '258'
+      istat_nome: Roma
+      istat_tipo: 'Citta metropolitana'
+      motorizzazione_sigla_automobilistica: RM
+      istat_code_provincia_storico: '058'
+  -
+      ripartizione_geografica: Centro
+      istat_code_regione: '12'
+      eurostat_code_2010: ITI44
+      eurostat_code_2021: ITI44
+      istat_code_provincia_attuale: '059'
+      istat_code_provincia_statistico: '059'
+      istat_nome: Latina
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: LT
+      istat_code_provincia_storico: '059'
+  -
+      ripartizione_geografica: Centro
+      istat_code_regione: '12'
+      eurostat_code_2010: ITI45
+      eurostat_code_2021: ITI45
+      istat_code_provincia_attuale: '060'
+      istat_code_provincia_statistico: '060'
+      istat_nome: Frosinone
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: FR
+      istat_code_provincia_storico: '060'
+  -
+      ripartizione_geografica: Sud
+      istat_code_regione: '13'
+      eurostat_code_2010: ITF11
+      eurostat_code_2021: ITF11
+      istat_code_provincia_attuale: '066'
+      istat_code_provincia_statistico: '066'
+      istat_nome: 'L''Aquila'
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: AQ
+      istat_code_provincia_storico: '066'
+  -
+      ripartizione_geografica: Sud
+      istat_code_regione: '13'
+      eurostat_code_2010: ITF12
+      eurostat_code_2021: ITF12
+      istat_code_provincia_attuale: '067'
+      istat_code_provincia_statistico: '067'
+      istat_nome: Teramo
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: TE
+      istat_code_provincia_storico: '067'
+  -
+      ripartizione_geografica: Sud
+      istat_code_regione: '13'
+      eurostat_code_2010: ITF13
+      eurostat_code_2021: ITF13
+      istat_code_provincia_attuale: '068'
+      istat_code_provincia_statistico: '068'
+      istat_nome: Pescara
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: PE
+      istat_code_provincia_storico: '068'
+  -
+      ripartizione_geografica: Sud
+      istat_code_regione: '13'
+      eurostat_code_2010: ITF14
+      eurostat_code_2021: ITF14
+      istat_code_provincia_attuale: '069'
+      istat_code_provincia_statistico: '069'
+      istat_nome: Chieti
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: CH
+      istat_code_provincia_storico: '069'
+  -
+      ripartizione_geografica: Sud
+      istat_code_regione: '14'
+      eurostat_code_2010: ITF22
+      eurostat_code_2021: ITF22
+      istat_code_provincia_attuale: '070'
+      istat_code_provincia_statistico: '070'
+      istat_nome: Campobasso
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: CB
+      istat_code_provincia_storico: '070'
+  -
+      ripartizione_geografica: Sud
+      istat_code_regione: '14'
+      eurostat_code_2010: ITF21
+      eurostat_code_2021: ITF21
+      istat_code_provincia_attuale: '094'
+      istat_code_provincia_statistico: '094'
+      istat_nome: Isernia
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: IS
+      istat_code_provincia_storico: '094'
+  -
+      ripartizione_geografica: Sud
+      istat_code_regione: '15'
+      eurostat_code_2010: ITF31
+      eurostat_code_2021: ITF31
+      istat_code_provincia_attuale: '061'
+      istat_code_provincia_statistico: '061'
+      istat_nome: Caserta
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: CE
+      istat_code_provincia_storico: '061'
+  -
+      ripartizione_geografica: Sud
+      istat_code_regione: '15'
+      eurostat_code_2010: ITF32
+      eurostat_code_2021: ITF32
+      istat_code_provincia_attuale: '062'
+      istat_code_provincia_statistico: '062'
+      istat_nome: Benevento
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: BN
+      istat_code_provincia_storico: '062'
+  -
+      ripartizione_geografica: Sud
+      istat_code_regione: '15'
+      eurostat_code_2010: ITF33
+      eurostat_code_2021: ITF33
+      istat_code_provincia_attuale: '263'
+      istat_code_provincia_statistico: '263'
+      istat_nome: Napoli
+      istat_tipo: 'Citta metropolitana'
+      motorizzazione_sigla_automobilistica: NA
+      istat_code_provincia_storico: '063'
+  -
+      ripartizione_geografica: Sud
+      istat_code_regione: '15'
+      eurostat_code_2010: ITF34
+      eurostat_code_2021: ITF34
+      istat_code_provincia_attuale: '064'
+      istat_code_provincia_statistico: '064'
+      istat_nome: Avellino
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: AV
+      istat_code_provincia_storico: '064'
+  -
+      ripartizione_geografica: Sud
+      istat_code_regione: '15'
+      eurostat_code_2010: ITF35
+      eurostat_code_2021: ITF35
+      istat_code_provincia_attuale: '065'
+      istat_code_provincia_statistico: '065'
+      istat_nome: Salerno
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: SA
+      istat_code_provincia_storico: '065'
+  -
+      ripartizione_geografica: Sud
+      istat_code_regione: '16'
+      eurostat_code_2010: ITF46
+      eurostat_code_2021: ITF46
+      istat_code_provincia_attuale: '071'
+      istat_code_provincia_statistico: '071'
+      istat_nome: Foggia
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: FG
+      istat_code_provincia_storico: '071'
+  -
+      ripartizione_geografica: Sud
+      istat_code_regione: '16'
+      eurostat_code_2010: ITF47
+      eurostat_code_2021: ITF47
+      istat_code_provincia_attuale: '272'
+      istat_code_provincia_statistico: '272'
+      istat_nome: Bari
+      istat_tipo: 'Citta metropolitana'
+      motorizzazione_sigla_automobilistica: BA
+      istat_code_provincia_storico: '072'
+  -
+      ripartizione_geografica: Sud
+      istat_code_regione: '16'
+      eurostat_code_2010: ITF43
+      eurostat_code_2021: ITF43
+      istat_code_provincia_attuale: '073'
+      istat_code_provincia_statistico: '073'
+      istat_nome: Taranto
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: TA
+      istat_code_provincia_storico: '073'
+  -
+      ripartizione_geografica: Sud
+      istat_code_regione: '16'
+      eurostat_code_2010: ITF44
+      eurostat_code_2021: ITF44
+      istat_code_provincia_attuale: '074'
+      istat_code_provincia_statistico: '074'
+      istat_nome: Brindisi
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: BR
+      istat_code_provincia_storico: '074'
+  -
+      ripartizione_geografica: Sud
+      istat_code_regione: '16'
+      eurostat_code_2010: ITF45
+      eurostat_code_2021: ITF45
+      istat_code_provincia_attuale: '075'
+      istat_code_provincia_statistico: '075'
+      istat_nome: Lecce
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: LE
+      istat_code_provincia_storico: '075'
+  -
+      ripartizione_geografica: Sud
+      istat_code_regione: '16'
+      eurostat_code_2010: ITF48
+      eurostat_code_2021: ITF48
+      istat_code_provincia_attuale: '110'
+      istat_code_provincia_statistico: '110'
+      istat_nome: Barletta-Andria-Trani
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: BT
+      istat_code_provincia_storico: '110'
+  -
+      ripartizione_geografica: Sud
+      istat_code_regione: '17'
+      eurostat_code_2010: ITF51
+      eurostat_code_2021: ITF51
+      istat_code_provincia_attuale: '076'
+      istat_code_provincia_statistico: '076'
+      istat_nome: Potenza
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: PZ
+      istat_code_provincia_storico: '076'
+  -
+      ripartizione_geografica: Sud
+      istat_code_regione: '17'
+      eurostat_code_2010: ITF52
+      eurostat_code_2021: ITF52
+      istat_code_provincia_attuale: '077'
+      istat_code_provincia_statistico: '077'
+      istat_nome: Matera
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: MT
+      istat_code_provincia_storico: '077'
+  -
+      ripartizione_geografica: Sud
+      istat_code_regione: '18'
+      eurostat_code_2010: ITF61
+      eurostat_code_2021: ITF61
+      istat_code_provincia_attuale: '078'
+      istat_code_provincia_statistico: '078'
+      istat_nome: Cosenza
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: CS
+      istat_code_provincia_storico: '078'
+  -
+      ripartizione_geografica: Sud
+      istat_code_regione: '18'
+      eurostat_code_2010: ITF63
+      eurostat_code_2021: ITF63
+      istat_code_provincia_attuale: '079'
+      istat_code_provincia_statistico: '079'
+      istat_nome: Catanzaro
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: CZ
+      istat_code_provincia_storico: '079'
+  -
+      ripartizione_geografica: Sud
+      istat_code_regione: '18'
+      eurostat_code_2010: ITF65
+      eurostat_code_2021: ITF65
+      istat_code_provincia_attuale: '280'
+      istat_code_provincia_statistico: '280'
+      istat_nome: 'Reggio Calabria'
+      istat_tipo: 'Citta metropolitana'
+      motorizzazione_sigla_automobilistica: RC
+      istat_code_provincia_storico: '080'
+  -
+      ripartizione_geografica: Sud
+      istat_code_regione: '18'
+      eurostat_code_2010: ITF62
+      eurostat_code_2021: ITF62
+      istat_code_provincia_attuale: '101'
+      istat_code_provincia_statistico: '101'
+      istat_nome: Crotone
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: KR
+      istat_code_provincia_storico: '101'
+  -
+      ripartizione_geografica: Sud
+      istat_code_regione: '18'
+      eurostat_code_2010: ITF64
+      eurostat_code_2021: ITF64
+      istat_code_provincia_attuale: '102'
+      istat_code_provincia_statistico: '102'
+      istat_nome: 'Vibo Valentia'
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: VV
+      istat_code_provincia_storico: '102'
+  -
+      ripartizione_geografica: Isole
+      istat_code_regione: '19'
+      eurostat_code_2010: ITG11
+      eurostat_code_2021: ITG11
+      istat_code_provincia_attuale: '081'
+      istat_code_provincia_statistico: '081'
+      istat_nome: Trapani
+      istat_tipo: 'Libero consorzio di comuni'
+      motorizzazione_sigla_automobilistica: TP
+      istat_code_provincia_storico: '081'
+  -
+      ripartizione_geografica: Isole
+      istat_code_regione: '19'
+      eurostat_code_2010: ITG12
+      eurostat_code_2021: ITG12
+      istat_code_provincia_attuale: '282'
+      istat_code_provincia_statistico: '282'
+      istat_nome: Palermo
+      istat_tipo: 'Citta metropolitana'
+      motorizzazione_sigla_automobilistica: PA
+      istat_code_provincia_storico: '082'
+  -
+      ripartizione_geografica: Isole
+      istat_code_regione: '19'
+      eurostat_code_2010: ITG13
+      eurostat_code_2021: ITG13
+      istat_code_provincia_attuale: '283'
+      istat_code_provincia_statistico: '283'
+      istat_nome: Messina
+      istat_tipo: 'Citta metropolitana'
+      motorizzazione_sigla_automobilistica: ME
+      istat_code_provincia_storico: '083'
+  -
+      ripartizione_geografica: Isole
+      istat_code_regione: '19'
+      eurostat_code_2010: ITG14
+      eurostat_code_2021: ITG14
+      istat_code_provincia_attuale: '084'
+      istat_code_provincia_statistico: '084'
+      istat_nome: Agrigento
+      istat_tipo: 'Libero consorzio di comuni'
+      motorizzazione_sigla_automobilistica: AG
+      istat_code_provincia_storico: '084'
+  -
+      ripartizione_geografica: Isole
+      istat_code_regione: '19'
+      eurostat_code_2010: ITG15
+      eurostat_code_2021: ITG15
+      istat_code_provincia_attuale: '085'
+      istat_code_provincia_statistico: '085'
+      istat_nome: Caltanissetta
+      istat_tipo: 'Libero consorzio di comuni'
+      motorizzazione_sigla_automobilistica: CL
+      istat_code_provincia_storico: '085'
+  -
+      ripartizione_geografica: Isole
+      istat_code_regione: '19'
+      eurostat_code_2010: ITG16
+      eurostat_code_2021: ITG16
+      istat_code_provincia_attuale: '086'
+      istat_code_provincia_statistico: '086'
+      istat_nome: Enna
+      istat_tipo: 'Libero consorzio di comuni'
+      motorizzazione_sigla_automobilistica: EN
+      istat_code_provincia_storico: '086'
+  -
+      ripartizione_geografica: Isole
+      istat_code_regione: '19'
+      eurostat_code_2010: ITG17
+      eurostat_code_2021: ITG17
+      istat_code_provincia_attuale: '287'
+      istat_code_provincia_statistico: '287'
+      istat_nome: Catania
+      istat_tipo: 'Citta metropolitana'
+      motorizzazione_sigla_automobilistica: CT
+      istat_code_provincia_storico: '087'
+  -
+      ripartizione_geografica: Isole
+      istat_code_regione: '19'
+      eurostat_code_2010: ITG18
+      eurostat_code_2021: ITG18
+      istat_code_provincia_attuale: '088'
+      istat_code_provincia_statistico: '088'
+      istat_nome: Ragusa
+      istat_tipo: 'Libero consorzio di comuni'
+      motorizzazione_sigla_automobilistica: RG
+      istat_code_provincia_storico: '088'
+  -
+      ripartizione_geografica: Isole
+      istat_code_regione: '19'
+      eurostat_code_2010: ITG19
+      eurostat_code_2021: ITG19
+      istat_code_provincia_attuale: '089'
+      istat_code_provincia_statistico: '089'
+      istat_nome: Siracusa
+      istat_tipo: 'Libero consorzio di comuni'
+      motorizzazione_sigla_automobilistica: SR
+      istat_code_provincia_storico: '089'
+  -
+      ripartizione_geografica: Isole
+      istat_code_regione: '20'
+      eurostat_code_2010: ITG25
+      eurostat_code_2021: 'ITG2D '
+      istat_code_provincia_attuale: '090'
+      istat_code_provincia_statistico: '090'
+      istat_nome: Sassari
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: SS
+      istat_code_provincia_storico: '090'
+  -
+      ripartizione_geografica: Isole
+      istat_code_regione: '20'
+      eurostat_code_2010: ITG26
+      eurostat_code_2021: 'ITG2E '
+      istat_code_provincia_attuale: '091'
+      istat_code_provincia_statistico: '091'
+      istat_nome: Nuoro
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: NU
+      istat_code_provincia_storico: '091'
+  -
+      ripartizione_geografica: Isole
+      istat_code_regione: '20'
+      eurostat_code_2010: ITG27
+      eurostat_code_2021: ITG2F
+      istat_code_provincia_attuale: '292'
+      istat_code_provincia_statistico: '292'
+      istat_nome: Cagliari
+      istat_tipo: 'Citta metropolitana'
+      motorizzazione_sigla_automobilistica: CA
+      istat_code_provincia_storico: '092'
+  -
+      ripartizione_geografica: Isole
+      istat_code_regione: '20'
+      eurostat_code_2010: ITG28
+      eurostat_code_2021: 'ITG2G '
+      istat_code_provincia_attuale: '095'
+      istat_code_provincia_statistico: '095'
+      istat_nome: Oristano
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: OR
+      istat_code_provincia_storico: '095'
+  -
+      ripartizione_geografica: Isole
+      istat_code_regione: '20'
+      eurostat_code_2010: ITG29
+      eurostat_code_2021: '-'
+      istat_code_provincia_attuale: '-'
+      istat_code_provincia_statistico: '-'
+      istat_nome: Olbia-Tempio
+      istat_tipo: 'Provincia soppressa'
+      motorizzazione_sigla_automobilistica: OT
+      istat_code_provincia_storico: '104'
+  -
+      ripartizione_geografica: Isole
+      istat_code_regione: '20'
+      eurostat_code_2010: ITG2A
+      eurostat_code_2021: '-'
+      istat_code_provincia_attuale: '-'
+      istat_code_provincia_statistico: '-'
+      istat_nome: Ogliastra
+      istat_tipo: 'Provincia soppressa'
+      motorizzazione_sigla_automobilistica: OG
+      istat_code_provincia_storico: '105'
+  -
+      ripartizione_geografica: Isole
+      istat_code_regione: '20'
+      eurostat_code_2010: ITG2B
+      eurostat_code_2021: '-'
+      istat_code_provincia_attuale: '-'
+      istat_code_provincia_statistico: '-'
+      istat_nome: 'Medio Campidano'
+      istat_tipo: 'Provincia soppressa'
+      motorizzazione_sigla_automobilistica: VS
+      istat_code_provincia_storico: '106'
+  -
+      ripartizione_geografica: Isole
+      istat_code_regione: '20'
+      eurostat_code_2010: ITG2C
+      eurostat_code_2021: '-'
+      istat_code_provincia_attuale: '-'
+      istat_code_provincia_statistico: '-'
+      istat_nome: Carbonia-Iglesias
+      istat_tipo: 'Provincia soppressa'
+      motorizzazione_sigla_automobilistica: CI
+      istat_code_provincia_storico: '107'
+  -
+      ripartizione_geografica: Isole
+      istat_code_regione: '20'
+      eurostat_code_2010: '-'
+      eurostat_code_2021: 'ITG2H '
+      istat_code_provincia_attuale: '111'
+      istat_code_provincia_statistico: '111'
+      istat_nome: 'Sud Sardegna'
+      istat_tipo: Provincia
+      motorizzazione_sigla_automobilistica: SU
+      istat_code_provincia_storico: '111'
